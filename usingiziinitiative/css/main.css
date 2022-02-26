@@ -195,7 +195,7 @@ body {
 .symptoms {
     padding-top: 90px;
     padding-bottom: 90px;
-    background: url('/Attempt1/img/bg/symptoms.png')
+    background: url('../img/bg/symptoms.png')
 }
 
 .symptoms h2 {
